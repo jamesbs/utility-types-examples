@@ -1,7 +1,7 @@
 {
   "name": "examples",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ts-node": "^8.10.1",
     "utility-types": "^3.10.0"
   },
